@@ -1,0 +1,9 @@
+This file shows prep remaining
+
+Redux
+Hooks
+Custom Hooks
+Fetch API
+Daisy ui and tailwind css
+use state use effect 
+like and counter project
